@@ -52,11 +52,11 @@ header div ul {
     display: inline-block;
     margin-left: 25px;
 }
-aside {position: absolute;
+aside {position: relative;
     display: inline;
     bottom: 0px;
-    top: 825px;
-    left: 625px;
+    top: 5px;
+    left: 5px;
 
 }
 
